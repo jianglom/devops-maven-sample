@@ -1,4 +1,4 @@
-FROM java:openjdk-8-jre-alpine
+FROM menard99/alpine-openjdk:latest
 
 WORKDIR /home
 
